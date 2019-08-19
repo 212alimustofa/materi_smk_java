@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Standard",
+            "request": "launch",
+            "mainClass": "Standard"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MapExample",
             "request": "launch",
             "mainClass": "MapExample"

@@ -10,6 +10,10 @@ public class Standard {
     String name = cin.readLine();
     System.out.println("Masukkan Umur: ");
     int age = Integer.parseInt(cin.readLine());
-    System.out.println("Nama saya adalah: "+name +". Dan umur saya: "+ String.valueOf(age)+ " tahun");
+    if (age > 18) {
+      System.out.println("Nama saya adalah: "+name +". Dan umur saya: "+ String.valueOf(age)+ " tahun. Saya sudah dewasa.");
+    } else {
+      System.out.println("Nama saya adalah: "+name +". Dan umur saya: "+ String.valueOf(age)+ " tahun. Saya belum dewasa.");
+    }
   }
 }
