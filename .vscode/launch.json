@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBufferMethods",
+            "request": "launch",
+            "mainClass": "StringBufferMethods"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Standard",
             "request": "launch",
             "mainClass": "Standard"
