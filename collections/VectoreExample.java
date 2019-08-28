@@ -10,7 +10,7 @@ public class VectorExample {
         vectorStrings.add("Object 4");
         vectorStrings.add("Object 5");
 
-        Iterator iterator = vectorStrings.iterator()
+        Iterator iterator = vectorStrings.iterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
