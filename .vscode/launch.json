@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QueueExample",
+            "request": "launch",
+            "mainClass": "QueueExample"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StackExample",
             "request": "launch",
             "mainClass": "StackExample"
