@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DialogSwingExample",
+            "request": "launch",
+            "mainClass": "DialogSwingExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwingExampleList",
+            "request": "launch",
+            "mainClass": "SwingExampleList"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QueueExample",
             "request": "launch",
             "mainClass": "QueueExample"
