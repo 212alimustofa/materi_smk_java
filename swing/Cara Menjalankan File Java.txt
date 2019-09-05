@@ -1,0 +1,10 @@
+Cara Menjalankan File Java
+
+- Apabila belum terinstall Java pada PC Anda, install terlebih dahulu.
+- Sesuaikan path Java agar dapat dieksekusi oleh Command prompt. https://www.duniailkom.com/tutorial-belajar-java-mengatur-setting-path-untuk-java-jdk/
+
+1. Buka Command Prompt dengan cara klik "Start" -> ketikkan "cmd" pada kolom search/pencarian.
+2. Setelah Command Prompt terbuka, pindahkan pointer ke directory kerja (tempat menyimpan file Java)
+   - Untuk contoh: "D:" kemudian "cd nama_directory"
+3. Compile file Java dengan perintah "javac NamaFile.java". Nama file harus sesuai dengan nama kelas
+4. Run (Jalankan) file hasil compile dengan perintah "java NamaFile". Tanpa .class 
