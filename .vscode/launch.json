@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SimpleGuiExample",
+            "request": "launch",
+            "mainClass": "SimpleGuiExample"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DialogSwingExample",
             "request": "launch",
             "mainClass": "DialogSwingExample"

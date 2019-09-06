@@ -1,0 +1,2 @@
+- Buat source code dengan SublimeText 3 atau Notepad, atau copy source yang sudah ada
+- Save file dengan ekstensi .java

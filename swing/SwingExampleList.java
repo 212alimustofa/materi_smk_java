@@ -12,7 +12,7 @@ public static void main(String args[])  {
           l1.addElement("Item3");  
           l1.addElement("Item4");  
           JList<String> list = new JList<>(l1);  
-          list.setBounds(0,0, 75,100);  
+          list.setBounds(0,0, 100,100);  
           frame.add(list);  
           frame.setSize(400,400);  
           frame.setLayout(null);  
