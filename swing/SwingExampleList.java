@@ -1,10 +1,6 @@
 import javax.swing.*;  
 public class SwingExampleList  { 
-     ListExample(){  
-        System.out.println("x");
-     }  
-public static void main(String args[])  {  
-   new ListExample();
+public static void main(String args[])  { 
    JFrame frame= new JFrame();  
         DefaultListModel<String> l1 = new DefaultListModel<>();  
           l1.addElement("Item1");
@@ -17,5 +13,5 @@ public static void main(String args[])  {
           frame.setSize(400,400);  
           frame.setLayout(null);  
           frame.setVisible(true); 
-}
-}  
+         }
+      }  
